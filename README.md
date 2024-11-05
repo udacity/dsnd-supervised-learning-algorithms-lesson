@@ -10,7 +10,7 @@ The repo contains the following exercises:
 
 ## Dependencies
 
-See `requirements.txt` for an overview of required python packages.
+See `Pipfile` for an overview of required python packages.
 
 ## Author
 
