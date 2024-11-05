@@ -4,9 +4,11 @@ This repo contains exercises and solutions for the Supervised Learning Algorithm
 
 ## Overview of Exercises
 
-The repo contains the following exercises:
-- Predict a patient's diabetes desease progression from different health indicators such as body mass index, age, blood pressure etc.
-- Classify different flower types using a decision tree classifier.
+The repo contains the following demos and exercises:
+- Learning basic linear regression in scikit-learn
+- Predicting a patient's diabetes desease progression from different health indicators such as body mass index, age, blood pressure etc
+- Overfitting in decision trees
+- Classifying different flower types using a decision tree classifier
 
 ## Dependencies
 
